@@ -1,0 +1,56 @@
+# Oral History as Data (OHD) - a Lib-STATIC Tool
+# https://github.com/uidaholib/oral-history-as-data
+
+
+##########
+# URL settings 
+#
+# url is your gh-pages base, following the pattern: username.github.io
+url: https://uidaholib.github.io
+# baseurl is your github repository's name prefixed with a /
+baseurl: /oral-history-as-data
+# repository is the github repository's full url
+repository: https://github.com/uidaholib/oral-history-as-data
+
+
+##########
+# Site settings
+#
+# title of site appears in banner
+title: Oral History (as) Data
+# tagline appears in banner
+tagline: Analyze and publish coded oral history and qualitative interviews
+# description appears in meta tags and other locations
+# this description might appear in search result lists, keep around 160 characters max
+description: "Lib-Static Oral History / Qualitative Interview Analysis Tool, Analyze and publish transcriptions with tagged csvs"
+# Organization branding
+organization-name: "Center for Digital Inquiry and Learning, University of Idaho Library"
+organization-link: https://cdil.lib.uidaho.edu/
+organization-logo-banner: https://cdil.lib.uidaho.edu/images/cdil-blacktransparent-logo.png
+organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+
+
+####### Leave the Below As Is ########
+
+# Jekyll collections settings
+collections:
+  transcripts:
+    output: true
+    permalink: /:collection/:name
+  howto:
+    output: true
+    permalink: /:collection/:name
+# defaults
+defaults:
+  - scope:
+      type: transcripts
+    values:
+      layout: transcript
+  - scope:
+      type: howto
+    values:
+      layout: howto
+
+# Build settings
+markdown: kramdown
+
