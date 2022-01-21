@@ -6,28 +6,28 @@
 # URL settings 
 #
 # url is your gh-pages base, following the pattern: username.github.io
-url: https://uidaholib.github.io
+url: https://vanlibrarijan.github.io
 # baseurl is your github repository's name prefixed with a /
-baseurl: /oral-history-as-data
+baseurl: /ohd
 # repository is the github repository's full url
-repository: https://github.com/uidaholib/oral-history-as-data
+repository: https://github.com/vanlibrarijan/ohd
 
 
 ##########
 # Site settings
 #
 # title of site appears in banner
-title: Oral History (as) Data
+title: Transcript Data
 # tagline appears in banner
-tagline: Analyze and publish coded oral history and qualitative interviews
+tagline: Transcriptions of focus groups for the UBC iSchool study Does what you study indicate your awareness of the effects of data-driven technologies? 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Lib-Static Oral History / Qualitative Interview Analysis Tool, Analyze and publish transcriptions with tagged csvs"
+description: "Transcript Data / Does what you study indicate your awareness of the effects of data-driven technologies? "
 # Organization branding
-organization-name: "Center for Digital Inquiry and Learning, University of Idaho Library"
-organization-link: https://cdil.lib.uidaho.edu/
-organization-logo-banner: https://cdil.lib.uidaho.edu/images/cdil-blacktransparent-logo.png
-organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+organization-name: UBC School of Information
+organization-link: https://ischool.ubc.ca/
+organization-logo-banner: https://ischool.ubc.ca/files/2015/06/logo.png
+organization-logo-nav: https://ischool.ubc.ca/files/2015/06/logo.png
 
 
 ####### Leave the Below As Is ########
@@ -53,6 +53,3 @@ defaults:
 
 # Build settings
 markdown: kramdown
-
-
-theme: jekyll-theme-merlot
