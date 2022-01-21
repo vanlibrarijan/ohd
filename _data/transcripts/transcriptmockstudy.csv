@@ -1,0 +1,57 @@
+timestamp,speaker,words,tags
+[0:00],Me,"Ok, T is notetaker and does someone want to be the announcing person at the end?",instructional
+,ID,I can be the announcer,instructional
+,Me,Ok Y is going to be the second person. Ok I am going to disappear. The instructions are on the side. Let me know if you have any questions and I will give you like a 5 minute notice. [at this point I leave],instructional
+,ID,Ok let's do this. When she said instructions I assume she means the rubric?,clarity
+,FA,"Yeah, so three in like ranking order 1, 2, 3, and prepare one question for each proposal. Hmm. They all seem really like, I don't know, high-tech. I don't know if these are...the technology is there.",clarity;feasibility
+,CS,"Yeah, they sound good on paper, but I think the execution is a whole...",feasibility
+[01:09],FA,"I'm not sure what resources are out there. That's why they have dolls that capture their conversations...I think the app is the most viable? Like proposal 3. I guess, you know, if we have to come up with a question, for proposal 3...what would the kid be doing on the app? Because it doesn't really say. I think that's not very clear.",clarity; feasibility
+,CS,"Yeah, I agree.",
+,ID,They have not figured it out yet; that's a good question.,
+,FA,I think the app would be the most viable to me; kids are always on iPads these days. It would probably be easier to get a kid on an iPad versus a doll or sitting with an EEG sensor on their head.,technical;feasibility
+,ID,"I think in terms of innovation and success, it will rank higher than the other ones. I would say goals and objectives and significance and impact...slightly lower for me on those. Feasibility definitely higher and then...agree on ranking order with 1 being the most desirable and 3 being least. So desirable as in, wanting to have it exist in the world?",impactfulness;feasibility;clarity
+,FA,"Cuz I think there's ranking in terms of which is the best or which one is the most viable, I guess.",feasibility
+,ID,Are we doing most viable?,feasibility
+,FA,"What's the instruction? Well it's most desirable. We can do both, like what would be the best assuming they were all possible and then, like a second one maybe such as what is the most viable.",clarity;feasibility
+,CS,Ok sounds good.,
+,ID,"We can go...like for me, proposal 1 would be 2 and proposal 3 would be the third one.",
+,CS,In terms of significance?,
+[01:43],ID,In terms of desirability. We can all say what our ranking order will be.,
+,CS,Not viability?,
+,ID,Desirability,
+,CSA,"I would say 2, 3, 1.",
+,FA,"Yeah, I would agree in terms of desirability, 2, 3, and then 1.",
+,CS,"Yeah, I would also do 2, 3, 1. Hm, it's hard though.",
+,ID,It feels like 3 has a better target on who they want to help and seems like it's more at-risk children. It knows what problems it wants to solve. 1 is more like enrichment.,clarity;technical;analysis
+,CS,"Sorry, what was that last part?",
+,ID,Proposal 1 is more like adding onto maybe a child's life?,analysis
+,CS,Proposal 1 doesn't have a clear idea of what they want to do?,clarity
+,ID,"They have an idea, but it feels like it's not really helping children who are at-risk at the moment, there's a lot of children who have lost an entire year of learning because of the pandemic. They've been living kind of privileged lives, but kids in proposal 2 and 3 need help. So, yeah, that's I guess my cons of it if we were to go for one it would not be that one.",analysis
+,CS,"Yeah, I agree. It's really vague I guess. What exactly would you be teaching, what are you teaching, the audience is super broad. Like all kids? I think like you said, they're not really at-risk or not as specific as the other ideas. So yeah, I agree with that.",clarity;analysis;feasibility
+,CSA,"Yeah, one thing I worry about number 1 is that it's just like this general doll that's listening in on what kids are doing in their home. I feel like that a lot of people would have concerns about security and privacy for that one. It's like a Google Home but targeted for kids, which actually makes it worse.",privacy
+,ID,"I can see Facebook making something like this. So proposal 2, we're discussing all the pros and cons and implications.",feasibility
+,CSA,"Proposal 2, it's the most focused to me, its goal. I'd admit that the execution might be tough. How do you get the kids to wear-?",technical;analysis;feasibility;impactfulness
+,ID,It looks like they will need to be in the lab or something.,technical;analysis
+[3:13],FA,"If you were doing this at home, you would have to also rely on, I'm assuming you'd have to rely on the parents to set it up correctly each time, record it properly each time, and it's I guess it's less controlled settings. I've done studies at UBC where they put the thing on your head, but they control it the whole time and they know how to operate this machine to capture the data properly.",technical;analysis;feasibility;anecdotal
+,ID,"I'm assuming it would have to be sessions again and again to develop these habits, so it has to be quite...I guess it can't be adapted at scale. You would have to need a lot of money to set this up for all the children who are at-risk, because there are so many children at this place at the moment.",analysis;feasibility
+,FA,I guess the sample study is going to be smallish. I don't know. It's nice when you have a bigger group that you can survey.,clarity;analysis
+,CSA,If it was offered as a service in a clinic or something like that.,technical;analysis
+,FA,I guess that can be our question for number 2. How would the researchers record the data? Are the kids going to a lab each day? Are the parents going to be doing it? Something like that. But I do like number 2. I think the goals are good.,clarity;analysis;feasibility
+,CSA,"If it can be implemented, I do like number 2. I think it has the most obvious impact.",analysis
+,CS,"Yeah, I definitely think 2 seems to be the most viable, honestly, even though it seems like there are a lot of challenges because I don't see the other ones being as focused or specific. For example, 3 is just like it will look at the environment and somehow will be able to detect the kid's eyes. I think kids are moving around a lot and it's really hard to distinguish, necessarily...also how do you know who is the kid? I'm not sure. 2 is like you put on this thing and it does a certain meditative exercise. It seems like, if it's set up correctly, it's pretty straightforward. But the other 2 doesn't seem very straightforward. There's like a lot of possible environmental noise.",technical;analysis;feasibility
+,CSA,The other 2 seem to collect data but doesn't offer a solution or direction.,clarity;analysis
+,ID,"Oh, I can see that. Reading proposal three...instead of using tech, optometrists. Or teaching parents or instructors or whatever adult is in their life...like when I was younger, I was squinting at the blackboard for like way too long, so my teacher noticed and told my mom 'I think she needs glasses!' so just noticing these things, it's not that hard to diagnose. My question for proposal 3 might be, what are the ways that have been tried before and did not work and how is this more efficient and viable than people noticing.",technical;anecdotal;analysis;feasibility
+,FA,Than taking your kid to the doctor.,analysis
+,ID,"Yeah, being aware.",analysis
+,FA,Oh I don't think we came up with a question for number 1.,
+,CS,I don't think we did. I actually don't have a question for number 2 unless...I wrote like how would researchers record the data but is that the question we want to use for number 2?,
+,FA,How would this be carried out? How would researchers...,clarity;feasibility
+,ID,"Lab or at home, how often, also curious what their research behind it is. Have they researched how often these kids might need to do this if we utilize the tech?",clarity;technical;feasibility
+,CSA,"For the first one, I mean I have a lot of questions about that. What do they plan to do about those privacy concerns, security concerns? What is done with the data exactly?",privacy;feasibility
+,CS,"Yeah, I mean, I think that's the biggest one. Do you plan to create a personalized curriculum for each kid? It's just really vague.",clarity;analysis
+,CSA,"Yeah, it sounds expensive to manufacture, doesn't seem like it would be accessible by a lot of kids.",analysis;feasibility
+,CS,Authentic play is difficult but you would get more authentic play with a robot doll?,clarity;analysis;feasibility
+,ID,It will be the future...that we're talking about.,feasibility
+,CSA,Number 1 doesn't seem technically feasible right now.,analysis;feasibility
+,ID,"Also to mass produce. It could be 1 super specialized one, but, probably not.",analysis;feasibility
+,CSA,"I think we basically...our ranking is 2, 3, 1.",
